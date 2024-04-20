@@ -1,0 +1,58 @@
+ul {
+  margin: 0;
+  list-style-type: none;
+}
+
+.Header {
+  display: flex;
+  position: relative;
+  padding-right: 20vw;
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  height: 120px;
+  padding-left: 5vw;
+  box-sizing: border-box;
+  align-items: center;
+  font-size: medium;
+  justify-content: space-around;
+  color: black;
+  box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  position: fixed;
+}
+
+.header_symbol {
+  margin-left: 12vw;
+  margin-right: 5px;
+  flex-basis: 200px;
+}
+
+.header_buttons {
+  margin-left: 3vw;
+  border-width: 3px;
+  color: black;
+  text-transform: uppercase;
+}
+
+.git {
+  background-color: orangered;
+  text-align: center;
+  border-radius: 20px;
+  padding: 5px 7px 1px 7px;
+  color: aliceblue;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  width: 120px;
+}
+
+img {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+

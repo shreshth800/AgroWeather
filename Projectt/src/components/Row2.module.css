@@ -1,0 +1,69 @@
+.row2 {
+  height: 5%;
+  width: 100%;
+  border-radius: 40px;
+  display: flex;
+  border: 5px solid #e4f2ff;
+  margin-bottom: 5%;
+  position: relative;
+}
+
+.ELE {
+  position: absolute;
+  top: 5%;
+  font-size: 1.5rem;
+}
+
+.TEMP {
+  background-color: #ffffff;
+  padding: 5px 10px 5px 10px;
+  border-radius: 18px;
+  border: 1px solid black;
+  box-shadow: -3px 4px 5px lightblue;
+  font-size: small;
+  left: 5%;
+}
+.TEMP:hover {
+  cursor: hand;
+  background-color: bisque;
+}
+.AQI {
+  padding-right: 10px;
+  background-color: #ffffff;
+  padding: 5px 10px 5px 10px;
+  border-radius: 18px;
+  border: 1px solid black;
+  box-shadow: -3px 4px 5px lightblue;
+  font-size: small;
+  left: 29%;
+}
+
+.HUM {
+  background-color: #ffffff;
+  padding: 5px 10px 5px 10px;
+  border-radius: 18px;
+  border: 1px solid black;
+  box-shadow: -3px 4px 5px lightblue;
+  font-size: small;
+  left: 42.5%;
+}
+
+.PRES {
+  background-color: #ffffff;
+  padding: 5px 10px 5px 10px;
+  border-radius: 18px;
+  border: 1px solid black;
+  box-shadow: -3px 4px 5px lightblue;
+  font-size: small;
+  left: 59.5%;
+}
+
+.ALT {
+  background-color: #ffffff;
+  padding: 5px 10px 5px 10px;
+  border-radius: 18px;
+  border: 1px solid black;
+  box-shadow: -3px 4px 5px lightblue;
+  font-size: small;
+  left: 77%;
+}

@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Encode Sans Semi Condensed", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: rgb(255, 255, 255);
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}

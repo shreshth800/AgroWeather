@@ -1,0 +1,10 @@
+.row1 {
+  height: 40%;
+  width: 100%;
+  border-radius: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  flex-wrap: wrap;
+}
